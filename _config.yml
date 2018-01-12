@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Bryan Lou
+bio: software engineer, student, gamer 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal portfolio
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/bryan.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# url: https://koppl.in/indigo
+url: http://bryanlou.github.io
 
 permalink: /:title/
 
@@ -34,27 +34,27 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: bryan-lou-11aaa574
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: bryanlou
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: 10.bryan.lou@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    bryanlou:
+        name: Bryan Lou
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
