@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>About</h2>
-
+<!-- <h2>About</h2>
+ -->
 <p>Hello. You've reached <b>Bryan Lou</b></p>
 
 <p> I'm studying Computer Science at the University of Waterloo, class of 2019.</p>
