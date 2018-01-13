@@ -1,9 +1,10 @@
 # Site settings
 title: Bryan Lou
 tagline: Software Engineer | Student | Gamer
-description: Personal Portfolio
-baseurl: https://github.com
-url: "http://bryanlou.github.io" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Bryan Lou lives and works as a software engineer in Toronto, Ontario.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://schildkopf.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
