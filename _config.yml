@@ -4,14 +4,7 @@ tagline: Software Engineer
 description: > # this means to ignore newlines until "baseurl:"
       Personal Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://schildkopf.com" # the base hostname & protocol for your site
-
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: http://bryanlou.github.io/bryan_resume.pdf
-
+# url: "http://schildkopf.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
