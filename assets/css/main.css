@@ -794,9 +794,9 @@
 
 				ul.actions.spinY li a {
 					-moz-transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, -moz-transform 0.5s ease-in;
-					/* -webkit-transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, -webkit-transform 0.5s ease-in; */
+					-webkit-transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, -webkit-transform 0.5s ease-in;
 					-ms-transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, -ms-transform 0.5s ease-in;
-					/* transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, transform 0.5s ease-in; */
+					transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, transform 0.5s ease-in;
 				}
 
 					ul.actions.spinY li a.active {
