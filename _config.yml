@@ -1,8 +1,9 @@
 # Site settings
-title: Bryan Lou
-tagline: Software Engineer | Student | Gamer
+title: Astrid Schildkopf
+tagline: Produktdesign
 description: > # this means to ignore newlines until "baseurl:"
-  Bryan Lou lives and works as a software engineer in Toronto, Ontario.
+  Astrid Schildkopf lebt und arbeitet als Produktdesignerin in Hamburg, Deutschland.
+  Internationale Aufmerksamkeit erreichte sie mit den originellen Entwürfen ihres Designstudios Miss Geschick & Lady Lapsus.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://schildkopf.com" # the base hostname & protocol for your site
 
