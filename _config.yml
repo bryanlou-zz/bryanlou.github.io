@@ -1,9 +1,8 @@
 # Site settings
-title: Astrid Schildkopf
-tagline: Produktdesign
+title: Bryan Lou
+tagline: Software Engineer
 description: > # this means to ignore newlines until "baseurl:"
-  Astrid Schildkopf lebt und arbeitet als Produktdesignerin in Hamburg, Deutschland.
-  Internationale Aufmerksamkeit erreichte sie mit den originellen Entwürfen ihres Designstudios Miss Geschick & Lady Lapsus.
+      Personal Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://schildkopf.com" # the base hostname & protocol for your site
 
