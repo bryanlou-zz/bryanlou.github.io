@@ -4,20 +4,45 @@ title: Photography
 image: /images/pic12.jpg
 position: bottom center
 ---
-
-img {
+<head>
+<style>
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  .fit { /* set relative picture size */
     max-width: 100%;
     max-height: 100%;
-}
-
+  }
+  .center {
+    display: block;
+    margin: auto;
+  }
+</style>
+</head>
+<body>
 <h2>Photography</h2>
 <div>
-	<img src="/images/pic05.jpg" alt=""/>
-	<img src="/images/pic06.jpg" alt=""/>
-	<img src="/images/pic07.jpg" alt=""/>
-	<img src="/images/pic08.jpg" alt=""/>
-	<img src="/images/pic09.jpg" alt=""/>
-	<img src="/images/pic10.jpg" alt=""/>
-	<img src="/images/pic11.jpg" alt=""/>
+	<img class="center fit" src="/images/pic05.jpg" alt=""/>
+	<img class="center fit" src="/images/pic06.jpg" alt=""/>
+	<img class="center fit" src="/images/pic07.jpg" alt=""/>
+	<img class="center fit" src="/images/pic08.jpg" alt=""/>
+	<img class="center fit" src="/images/pic09.jpg" alt=""/>
+	<img class="center fit" src="/images/pic10.jpg" alt=""/>
+	<img class="center fit" src="/images/pic11.jpg" alt=""/>
 </div>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" language="JavaScript">
+  function set_body_height() { // set body height = window height
+    $('body').height($(window).height());
+  }
+  $(document).ready(function() {
+    $(window).bind('resize', set_body_height);
+    set_body_height();
+  });
+</script>
+
+</body>
+
 
